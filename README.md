@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @astarooss 
+- 👀 I’m interested in Backend, namely the creation of interesting projects, in particular, telegram bots, sites, automation of routine tasks
+- 🌱 I’m currently learning python, django, aiogramm, telegram bot api
+- 💞️ I'm looking for cooperation in creating interesting projects based on telegram bot api, Django or any other projects
+- 📫 How to reach me, Email: vladik.miduan@gmail.com Telegram: https://t.me/alltruiist
